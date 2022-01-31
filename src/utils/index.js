@@ -1,3 +1,4 @@
+//TEMPLATE FILE//
 //to run the whole app in NODE: "npm init -y"==> run this in the terminal//
 console.log(procces.argv);
 const movieArr = [];
